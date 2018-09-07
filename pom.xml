@@ -11,7 +11,7 @@
     <name>reservetable-solution</name>
 
     <modules>
-        <!--<module>organization</module>-->
+        <module>visitor-backend</module>
         <!--<module>client</module>-->
         <!--<module>reserve-table-frontend</module>-->
     </modules>

@@ -1,0 +1,3 @@
+[submodule "visitor-backend"]
+	path = visitor-backend
+	url = https://github.com/Jourice/ReserveTable-visitor-backend.git
